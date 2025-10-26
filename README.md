@@ -152,5 +152,5 @@ We would like to extend our heartfelt gratitude to Paweł Gora , Mateusz Slysz a
 
 
 ### Project Presentation and Video:
-The project Slides and video can be accessed here 
+The project Slides and video can be accessed here QPoland 2025 | Team Qubitrix.mp4
 
