@@ -148,9 +148,9 @@ Qpoland_hack_2025/
 ----------------------
 
 ## Acknowledgement
-We would like to extend our heartfelt gratitude to Paweł Gora and all the mentors for arranging this amazing hackathon and giving us this opportunity to learn new things and experiment in a competitive setting.
+We would like to extend our heartfelt gratitude to Paweł Gora , Mateusz Slysz and all the mentors for arranging this amazing hackathon and giving us this opportunity to learn new things and experiment in a competitive setting.
 
 
-### Project Presentation Deck:
+### Project Presentation and Video:
+The project Slides and video can be accessed here 
 
-Slide deck and project descriptions linked
