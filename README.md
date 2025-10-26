@@ -87,7 +87,7 @@ Their work laid the foundation for superconducting qubits, which are widely used
 <img width="590" height="390" alt="image" src="https://github.com/user-attachments/assets/5d4a680c-9b17-4fcb-984c-8518128fc145" />
 <img width="677" height="439" alt="histogram" src="https://github.com/user-attachments/assets/88633fd3-9dd4-437a-9339-6c706368dccf" />
 <img width="678" height="466" alt="randomGraphs" src="https://github.com/user-attachments/assets/c818badb-e016-4b47-b479-0e22fe2b44f3" />
-
+<img width="989" height="490" alt="PCA_MLP" src="https://github.com/user-attachments/assets/a1f72ccc-ed7f-4941-bff9-29ac60ded8a5" />
 
 
 
