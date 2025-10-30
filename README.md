@@ -8,7 +8,7 @@ Team Member 1:
  - Full Name: Abdullah Kazi  
  
 Team Member 2:
- - Full Name: Ankit sharma
+ - Full Name: Ankit Sharma
 
 Team Member 3:
  - Full name: Soham Pawar
